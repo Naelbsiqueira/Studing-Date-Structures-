@@ -1,4 +1,4 @@
-package DateHomogeneous.Arrays;
+package DateHomogeneous.Arrays.Array;
 /*Um array é um objeto/estrutura liner ou unidimencional que serve como um contêiner para armazenar uma quantidade fixa de dados do mesmo tipo.
 Em vez de criar várias variáveis para armazenar valores individuais, você pode usa um array para agrupar todos eles sob
 uma única variável, facilitando a organização e a manipulação dos dados*/
