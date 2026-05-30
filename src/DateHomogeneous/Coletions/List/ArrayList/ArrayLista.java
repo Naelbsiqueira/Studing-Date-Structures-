@@ -1,4 +1,4 @@
-package DateHomogeneous.Arrays.List;
+package DateHomogeneous.Coletions.List.ArrayList;
 /*Um ArrayList em Java é uma estrutura de dados que funciona como um array dinâmico redimensionável.
 Diferente dos arrays tradicionais, ele não tem tamanho fixo. Ele cresce e diminui automaticamente conforme
 elementos são adicionados ou removidos. Ele pertence ao pacote java.util e é uma implementação da interface*/
