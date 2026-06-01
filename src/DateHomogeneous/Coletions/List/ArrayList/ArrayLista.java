@@ -13,7 +13,7 @@ public class ArrayLista {
         nomes.add("Ana");
         nomes.add("Bruno");
         nomes.add(10.3);
-
+        nomes.add(true);
         System.out.println(nomes); // Saída: [Ana, Bruno]
     }
     }
