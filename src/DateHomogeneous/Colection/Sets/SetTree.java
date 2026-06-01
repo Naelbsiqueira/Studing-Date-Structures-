@@ -1,4 +1,4 @@
-package DateHomogeneous.Coletions.List.SetOrConjuntos;
+package DateHomogeneous.Colection.Sets;
 /* O TreeSet é uma coleção que armazena elementos únicos de forma automaticamente ordenada.
 Ele implementa a interface NavigableSet e utiliza uma árvore binária balanceada (Árvore Rubro-Negra)
 em seu interior.

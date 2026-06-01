@@ -1,4 +1,4 @@
-package DateHomogeneous.Coletions.List.SetOrConjuntos;
+package DateHomogeneous.Colection.Sets;
 /*O HashSet armazena elementos únicos (não permite duplicatas) e não garante uma ordem específica para os itens.
 Ele permite o armazenamento de valores null e oferece excelente desempenho constante O(1) para operações básicas
 como adição e busca.

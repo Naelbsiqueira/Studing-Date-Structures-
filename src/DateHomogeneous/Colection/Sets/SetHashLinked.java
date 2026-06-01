@@ -1,4 +1,4 @@
-package DateHomogeneous.Coletions.List.SetOrConjuntos;
+package DateHomogeneous.Colection.Sets;
 import java.util.*;
 /*Um LinkedHashSet é uma coleção que evita duplicatas (pois implementa a interface Set) e mantém a ordem de inserção dos elementos.
 Ele combina a velocidade de busca de uma tabela Hash com a previsibilidade de uma lista encadeada
